@@ -11,3 +11,7 @@ BiblioPixel.egg*
 htmlcov
 .eggs
 .cache
+doc/_build
+doc/_static
+doc/_templates
+doc/api
